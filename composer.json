@@ -1,5 +1,5 @@
 {
-    "name": "urbics/remote",
+    "name": "laravelcollective/remote",
     "description": "Remote SSH access for The Laravel Framework.",
     "license": "MIT",
     "homepage": "http://laravelcollective.com",
